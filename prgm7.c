@@ -3,8 +3,8 @@
 void main()
 {
 clrscr();
-int i;
-for(i=1;i<=5;i++)
+int i=1;
+while(i<=5)
 {
 printf("hello");
 }
